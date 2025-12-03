@@ -119,7 +119,7 @@ Interact with slicers and visuals to explore insights.
 
 (Add your screenshot here)
 
-![Dashboard Preview](Screenshots/preview.png)
+![Dashboard Preview](Screenshot/Dashboard_Preview.png)
 
 🎯 Purpose of This Project
 
