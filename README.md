@@ -106,7 +106,7 @@ CSV/Excel Dataset
 
 Clone this repository:
 
-git clone https://github.com/your-username/your-repository-name.git
+[github.com/your-username/your-repository-name.git](https://github.com/Vinaychaudhari41/Business_Growth_and_Revenue_Intelligence_Dashboard/tree/main)
 
 
 Open the .pbix file using Power BI Desktop.
@@ -116,8 +116,6 @@ Load the dataset (if required, set correct file path).
 Interact with slicers and visuals to explore insights.
 
 🖼️ Dashboard Preview
-
-(Add your screenshot here)
 
 ![Dashboard Preview](Screenshot/Dashboard_Preview.png)
 
@@ -143,5 +141,5 @@ Feel free to fork this project, raise issues, or improve it with additional visu
 
 If you want help or collaboration, connect with me on:
 
-LinkedIn: Add your link here
-Email: Add your email
+LinkedIn: https://www.linkedin.com/in/vinayak-chaudhari-24b64b24a/
+Email: vinayakchaudhary624@gmail.com
